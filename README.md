@@ -18,7 +18,7 @@ npm install -g cdramirezh-first-pkg
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [cdramirezh-first-pkg](git@github.com:cdramirezh/cdramirezh-first-pkg.git)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [cdramirezh-first-pkg](https://github.com/cdramirezh/cdramirezh-first-pkg)
 
 # License
 
